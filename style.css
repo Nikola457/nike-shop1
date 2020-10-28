@@ -1,0 +1,762 @@
+body{ /* Resize the background image to cover the entire container */
+overflow-x:hidden;
+}
+.shadow5{
+  filter:blur(5px);
+    position:absolute;
+    z-index:-1;
+    width:700px;
+    top:770px;
+    left:400px;
+    height:20px;
+    border-radius:100%;
+    margin:0px;
+    background:rgba(0,0,0,0.5);
+}
+.shadow6{
+  filter:blur(5px);
+    position:absolute;
+    z-index:1000;
+    width:700px;
+  top:1600px;
+    left:600px;
+    height:20px;
+    border-radius:100%;
+    margin:0px;
+    background:rgba(0,0,0,0.5);
+}
+.shadow7{
+  filter:blur(5px);
+    position:absolute;
+    z-index:-1;
+    width:500px;
+    top:2500px;
+    left:250px;
+    height:20px;
+    border-radius:100%;
+    margin:0px;
+    background:rgba(0,0,0,0.5);
+}
+#fbshare{
+  height:100px;
+  width:750px;
+  position: absolute;
+  top:95%;
+  left:50%;
+}
+.nikepurple2{
+  position:absolute;
+  top:220%;
+  left:3%;
+  z-index:5;
+  width:800px;
+  height:600px;
+}
+.nikepurple5{
+  position:absolute;
+  top:210%;
+  transform:rotate(75deg);
+  left:5%;
+  z-index:1;
+  opacity:0.5;
+  width:800px;
+  height:600px;
+}
+.nikepurple4{
+  position:absolute;
+  background:#5b2068;
+ top:200%;
+ z-index:-1000;
+ left:50%;
+ width:100%;
+ height:100%;
+}
+.nikepurple1{
+  position:absolute;
+  background:white;
+ top:220%;
+ left:50%;
+ width:400px;
+ height:600px;
+}
+.nikepurple3{
+  position:absolute;
+  background:#5b2068;
+   top:220%;
+   z-index:-2;
+   left:11.7%;
+   width:600px;
+   height:600px;
+}
+.flyknit{
+  top:290%;
+  position:absolute;
+  left:3%;
+  margin:0px;
+  color:#5b2068;
+  font-size:80px;
+  z-index:1;
+  transform:skewX(-45deg);
+  opacity:0.3;
+}
+.flyknit2{
+  top:200%;
+  margin:0px;
+  position:absolute;
+  left:60%;
+  color:White;
+  font-size:120px;
+  z-index:1;
+  transform:skewX(-45deg);
+  opacity:0.3;
+}
+.textarea4{
+  position:absolute;
+  top:0px;
+  font-weight:lighter;
+  color:Black;
+  font-size:30px;
+}
+.run{
+  font-size:40px;
+  color:#5b2068;
+  position:absolute;
+  top:59.2%;
+  left:27%;
+}
+.buttonpurple{
+  position:absolute;
+  top:500px;
+  left:80px;
+  width:200px;
+  margin:0px;
+  background:#5b2068;
+  border:none;
+  border-radius:10px;
+  height:60px;
+}
+.buttonpurple a{
+font-size:25px;
+top:15px;
+  position:absolute;
+  left:5px;
+  margin:0px;
+  width:100%;
+  color:white;
+}
+.nikered{
+  width:120%;
+  background:#9e0e18;
+  height:100%;
+  position:absolute;
+  top:100%;
+  left:0px;
+  transform:skew(-55deg,0deg)translateX(-750px);
+  }
+  .textarea3{
+    width:300px;
+    height:400px;
+    background:white;
+    font-size:25px;
+border-radius:30px;
+padding:10px;
+      position:absolute;
+        top:120%;
+    z-index:2;
+    transform:rotate(0deg);
+        left:90px;
+  }
+.rednike2{
+  border-radius:10px;
+  position:absolute;
+  border:none;
+  left:20%;
+  width:60%;
+background:#9e0e18;
+height:50px;
+transition:2s;
+}
+.rednike2 a{
+  position:absolute;
+  left:5px;
+  width:100%;
+  top:20%;
+}
+.rednike2 a:hover{transform:scale(0);}
+.rednike2:hover{transform:scale(1.1);}
+  .text4::first-letter{font-size:50px;font-weight:lighter;}
+.rednike{
+    height:600px;
+    width:800px;
+    position:absolute;
+    top:110%;
+z-index:2;
+transform:rotate(0deg);
+    left:40%;
+}
+.rednike1{
+  height:600px;
+  width:800px;
+  position:absolute;
+  top:100%;
+z-index:1;
+opacity:0.5;
+transform:rotate(45deg);
+  left:35%;
+}
+.metcon{
+  position:absolute;
+  top:1650px;
+  width:60%;
+  left:800px;
+color:#9e0e18;
+margin:0px;
+font-size:80px;
+opacity:0.5;
+transform:skewX(-35deg);
+}
+.lines{
+position:absolute;
+z-index:1001;
+top:2%;
+right:20px;
+display:none;
+background: white;
+width:56px;
+height:8%;
+}
+.nikeyellow1{
+  position:absolute;
+  top:0px;
+  left:0px;
+width:130%;
+height:900px;
+z-index:-1000;
+background:#012b37;
+transform:skew(50deg,0deg)translateX(-700px);
+}
+.nikeyellow{
+  position:absolute;
+  width:900px;
+  height:700px;
+  left:300px;
+  top:10%;
+  transform:rotate(-5deg);
+}
+.nikeyellow2{
+  position:absolute;
+  width:800px;
+  z-index:-200;
+  height:600px;
+  left:25%;
+  top:0%;
+  opacity:0.5;
+  transform:rotate(60deg);
+}
+.Pegasus36{
+  color:#012b37;
+  position:absolute;
+  left:80%;
+  top:0px;
+  z-index:-1;
+transform:skewX(-30deg);
+  font-size:120px;
+  opacity:0.3;
+}
+.Pegasus37{
+    color:#f1ad61;
+    position:absolute;
+    left:1000px;
+    top:680px;
+    height:20px;
+  transform:skewX(-30deg);
+    font-size:45px;
+    opacity:1;
+}
+.textarea2{
+  background:#f1ad61;
+  position:absolute;
+  top:25%;
+  left:90px;
+  width:300px;
+  border-radius:50px;
+  height:400px;
+}
+.text3::first-letter{font-size:40px;}
+.text3{
+  width:90%;
+  top:-15px;
+  position:absolute;
+  left:10%;
+  font-size:17px;
+ font-weight:bold;
+ color:white;
+}
+.buttonarea{
+  background:#012b37;
+  border-radius:10px;
+  height:50px;
+  border:none;
+  position:absolute;
+  top:80%;
+  transition: 1s;
+  left:15%;
+}
+.buttonarea :hover{transform:scale(1.1);}
+.buttonarea a{
+  position:relative;
+  left:10%;
+}
+.line1{
+position:absolute;
+background: black;
+top:12px;
+left:17%;
+transition:1s;
+width:35px;
+height:5px;
+}
+.lines:hover{background:none;;position:absolute;right:0px;}
+.lines:hover .line1{transform:rotate(45deg);top:20px;left:30px;}
+.lines:hover .line2{transform:rotate(-45deg);top:20px;left:30px;}
+.lines:hover .line3{display:none;}
+.line2{
+position:absolute;
+background: black;
+top:22px;
+left:17%;
+width:35px;
+height:5px;
+transition:1s;
+}
+.line3{
+position:absolute;
+background: black;
+top:31px;
+left:17%;
+
+width:35px;
+height:5px;
+transition:1s;
+}
+
+.cover{
+  top:0px;
+  position:absolute;
+  left:-40%;
+  width:180%;
+  background-image: url("cover.png"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 1300px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.cover1{
+  top:0px;
+  left:0px;
+  position:absolute;
+  width:100%;
+  background-image: url("cover.png"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height:1300px;; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.bg{
+  height:1300px;
+  width:100%;
+position:absolute;
+top:0px;
+left:0px;
+animation:bg 3s 1;
+background:rgba(0,0,0,0.9);
+}
+@keyframes bg{
+  0%{opacity:0;}
+  100%{background:rgba(0,0,0,0.9);}
+}
+
+/*contact*/
+form{
+  margin:0px;
+  width:50%;
+  position:absolute;
+  left:25%;
+  top:20%;
+ color:white;
+}
+form p{
+  color:white;
+  font-size:20px;
+}
+fieldset{
+  position:relative;
+  border:3px solid white;
+  padding-bottom:60px;
+  border-radius:20px;
+}
+
+legend{
+  font-weight:bold;
+  font-size:25px;
+}
+input[type="text"], input[type="email"], input[type="number"]{
+  width:40%;
+  height:20px;
+    transition:1s;
+}
+textarea{
+  width:100%;
+  margin-bottom:20px;
+}
+select{width:40%;color:grey;border:none;
+  height:30px;
+    transition:1s;}
+input[type="radio"]{
+  width:30px;
+  height:20px;
+}
+.forma{
+    transition:1s;
+margin:0px;
+position:absolute;
+top:15%;
+left:50%;
+width:90%;
+height:20px;
+}
+#continue{
+  color:black;
+  font-size:20px;
+   position:absolute;
+   top:92%;
+   left:55%;
+   width:30%;
+}
+form select:hover,input:hover{
+ transform:scale(1.2);
+ border-radius:20px;
+}
+#reset{
+  margin-left:-10px;
+  color:white;
+  border:none;
+  font-size:20px;
+   position:absolute;
+   top:92%;
+   left:35%;
+   width:20%;
+   background:grey;
+   height:42px;
+   border-radius:10px;
+transition:2s;
+}
+#reset:hover
+{
+  cursor:pointer;
+  background:rgba(41, 45, 51);
+ transform:scale(1.2);
+}
+#subject{
+  width:100%;
+  height:20px;
+}
+@keyframes bg{from{opacity:0;} to{opacity:.9;}}
+
+  #cart{
+    color:white;
+    font-size:25px;
+    position:relative;
+    left:-30px;
+  }
+  .tike1{
+      transition:0.5s;
+      z-index:5;
+      opacity:0;
+      position:absolute;
+      left:180px;
+      top:-90px;
+      width:550px;
+      height:550px;
+  }
+  .tike:hover + .tike1{opacity:1;}
+  .tike1:hover{opacity:1;}
+  .tike{
+    opacity:1;
+    transition:2s;
+    z-index:5;
+    position:absolute;
+    left:210px;
+    top:-60px;
+    width:500px;
+    height:490px;
+    animation:tike 2s ease;
+  }
+  #menublack{position:fixed;
+  background:white;
+  height:50px;
+  z-index:2000;
+margin:0px;}
+  @keyframes tike{
+    from{transform:scale(0);}
+      to{transform:scale(1);}
+  }
+  #home{
+    color:black;
+  }
+  #shopnow{
+    color:black;
+  }
+  #contactus{
+    color:black;
+  }
+ul{
+  display:block;
+    position:absolute;
+    top:0px;
+    right:0px;
+  }
+li{
+ display:inline;
+ }
+
+  a{
+   color:white;
+   transition:2s;
+   text-decoration:none;
+   font-size:30px;
+   margin-right:40px;
+   font-weight:bold;
+ }
+ a:hover{
+   border-bottom:3px white solid;
+font-size:35px;
+
+ }
+  .nike1{
+position:absolute;
+top:5px;
+transition:1s;
+left:180px;
+height:50px;
+    width:90px;
+    z-index:100;
+    animation:logo 1s ease;
+  }
+  .container{
+    position:absolute;
+    top:25%;
+    left:-10px;
+  }
+  .text{
+    position:absolute;
+    transition:1s;
+    font-size:20px;
+    width:240px;
+    height:320px;
+   letter-spacing:1px;
+   text-align:left;
+    font-weight:bold;
+    color:white;
+    margin-left:80px;
+    animation-name:text 0s ease;
+  }
+  .textarea{
+    display:block;
+position:absolute;
+    width:260px;
+    height:320px;
+    opacity:0.5;
+    margin-left:70px;
+    filter:blur(4px);
+    background: linear-gradient(62deg, rgba(82,107,110,1), rgba(160,113,107,1) 100%);
+  }
+  .nike{
+    animation:nike 2s ease;
+    color:white;
+    font-size:40px;
+    font-weight:bold;
+    position:absolute;
+    z-index:100;
+top:-30px;
+    left:50px;
+  }
+  .price{
+    position:absolute;
+    top:235px;
+    left:200px;
+    color:white;
+    font-size:30px;
+  }
+  input[type="submit"]:hover
+  {transform:scale(1.2);}
+  input[type="submit"]{
+    position:absolute;
+    top:260px;
+    outline:none;
+    cursor:pointer;
+    left:50px;
+ margin-left:25px;
+ transition:1s;
+    color:black;
+    font-size:20px;
+    border:none;
+    border-radius:10px;
+    padding:10px;
+    background-color:white;
+  }
+  .nike1:hover {
+    transform:scale(1.3);
+  }
+  @keyframes logo{
+  0%{left:40%;opacity:0;transform:rotate(-90deg);}
+  25%{opacity:0.25;transform:rotate(-60deg)}
+  50%{ opacity:0.5;transform:rotate(-30deg);}
+  100%{opacity:1;transform:rotate(0deg);}
+}
+.padajucimeni{
+  z-index:1000;
+  position:absolute;
+  top:0%;
+  display:none;
+  right:0px;
+  background-color:white;
+  animation:padajucimeni 1s ease;
+}
+@keyframes padajucimeni{
+  from{width:0px;}
+  to{width:325px;}
+}
+.button{
+display:block;
+position:absolute;
+}
+.padajucimeni a{
+  background:white;
+color:black;
+position:relative;
+text-align:center;
+padding:80px 0px;
+}
+.lines:hover + .padajucimeni {display:block;}
+.padajucimeni:hover{display:block;}
+@media only screen and (max-width: 800px){
+  .lines{display:block;}
+  ul{display:none;}
+  .textarea{
+    background:#1b1c42;
+    border-radius:20px;opacity:1;
+    position:absolute;
+    top:70px;
+    width:350px;
+    left:-150px;
+   height:400px;filter:blur(0px);
+    animation:textarea 3s ease;}
+    @keyframes textarea{
+      from{width:0px; height:350px;}
+      to{width:350px; height:400px;}
+    }
+    .shadow{
+    filter:blur(5px);
+      position:absolute;
+      z-index:1000;
+      width:600px;
+      top:600px;
+      left:300px;
+      height:20px;
+      border-radius:100%;
+      margin:0px;
+      background:rgba(0,0,0,0.3);
+    }
+#submit1{
+  position:absolute;
+  width:250px;
+  left:-60px;
+  top:400px;
+}
+.text{
+  top:80px;
+  left:-100px;
+  text-align:left;
+  position:absolute;
+}
+.container{
+  position:Absolute;
+  top:15%;
+  left:120px;
+  padding-top:100px;
+  width:100%;
+  background:white;
+  height:520px;
+}
+.price{position:absolute;top:300px;left:-20px;font-size:40px;}
+  .background1{
+    position: absolute;
+    top:0px;
+    left:0px;
+    background:black;
+    width:100%;
+    height:900px;
+    z-index:-2;
+  }
+  .cover1{display:none;}
+.tike{z-index:1}
+fieldset
+{text-align:center;
+  padding:10px 0px;
+  position:absolute;
+  left:-50px;
+  width:500px;
+  top:50px;
+  height:1100px;}
+.radio{
+ position:relative;
+ top:22%;
+}
+form{position:absolute; top:10%;}
+#subject{width:50%;}
+#continue{width:150px;height:50px;position:absolute;left:50%;top:90%;}
+#reset{width:150px;height:50px;position:absolute;left:20%;top:90%;}
+.continue{top:23%;position:relative;}
+.textarea1{
+  position:relative;
+  left:15%;
+  top:23%;
+  width:70%;
+}
+input{width:30%;}
+.forma{
+  position:relative;
+  left:5%;
+  top:0%;
+  text-align:center;}
+.tike:hover{
+    transform:scale(1.0);
+  }
+.menutext{
+  color:black;
+  position:relative;
+left:30%;
+font-size:25px;
+font-weight:bold;
+}
+.menunike{
+  position:absolute;
+  top:-32px;
+  left:50%;
+  width:130px;
+  height:130px;
+}
+.kontakt{
+  font-size:40px;}
+#fb{padding:40px 30px 30px 40px;transition:2s;}
+#insta{padding:20px 20px 5px 10px;transition:2s;}
+#twitter{padding:20px 20px 5px 10px;transition:2s;}
+#email{padding:20px 10px 5px 10px;transition:2s;}
+#fb:hover {transform:scale(1.3);}
+ #insta:hover{transform:scale(1.3);}
+  #twitter:hover{transform:scale(1.3);}
+  #email:hover{
+  transform:scale(1.3);}
